@@ -99,4 +99,4 @@ class RobotTestSuiteRunner():
 
 TxtFile = "ArgumentFile.txt"
 ExcelFile = 'RobotTestSuitesParamsList(deneme).xlsx'          
-#RobotTestSuiteRunner().Operate(TxtFile,ExcelFile)
+RobotTestSuiteRunner().Operate(TxtFile,ExcelFile)
